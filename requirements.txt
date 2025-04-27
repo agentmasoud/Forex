@@ -1,0 +1,11 @@
+aiohttp
+requests
+pandas
+tenacity
+ratelimit
+python-telegram-bot==20.7
+yfinance
+numpy
+backtrader
+scipy
+ccxt
